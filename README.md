@@ -1,5 +1,5 @@
 # Patrones
-
+```text
 D:.
 |   README.md
 |
